@@ -6,7 +6,7 @@ Build an app that obtain starships and more using [Star Wars API](https://swapi.
 * Flexbox
 
 ### Live preview
-https://liudmylai.github.io/react-star-wars/
+https://bs2fx.csb.app/
 
 ### Learning Objectives
 * Practice setting up a React app
