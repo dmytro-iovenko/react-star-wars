@@ -1,5 +1,5 @@
 ## Week3 HW3 - Starships
-Build an app that obtain starships and more using (Star Wars API)[https://swapi.dev/]
+Build an app that obtain starships and more using [Star Wars API](https://swapi.dev/)
 
 ### Built With
 * ReactJS
